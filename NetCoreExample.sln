@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{612B8D24-41D2-44F6-8796-336753FB2A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{9E15542A-D2FF-4B63-9172-8787A9AC9708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612B8D24-41D2-44F6-8796-336753FB2A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612B8D24-41D2-44F6-8796-336753FB2A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612B8D24-41D2-44F6-8796-336753FB2A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612B8D24-41D2-44F6-8796-336753FB2A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E15542A-D2FF-4B63-9172-8787A9AC9708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E15542A-D2FF-4B63-9172-8787A9AC9708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E15542A-D2FF-4B63-9172-8787A9AC9708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E15542A-D2FF-4B63-9172-8787A9AC9708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C77484-CCB9-4810-8E79-458FA4103E66}
+	EndGlobalSection
+EndGlobal
