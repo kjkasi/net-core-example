@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{612B8D24-41D2-44F6-8796-336753FB2A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{C356EBF7-9324-46E8-92C3-1908302AE7C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{C356EBF7-9324-46E8-92C3-1908302AE7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{6BA32683-3A1D-4980-B6A9-3F6FC5556447}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C356EBF7-9324-46E8-92C3-1908302AE7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C356EBF7-9324-46E8-92C3-1908302AE7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C356EBF7-9324-46E8-92C3-1908302AE7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA32683-3A1D-4980-B6A9-3F6FC5556447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA32683-3A1D-4980-B6A9-3F6FC5556447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA32683-3A1D-4980-B6A9-3F6FC5556447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA32683-3A1D-4980-B6A9-3F6FC5556447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
